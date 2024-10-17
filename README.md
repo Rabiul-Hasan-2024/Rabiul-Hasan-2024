@@ -6,8 +6,8 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  REACT / JS / HTML / CSS
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning java script 
+- 📢 I’m currently working on this page. 
+- 💻 I’m expert in html,css,bootstrap,wordpress.
 - 👯 I’m looking to collaborate on git hub 
 - 🤔 I’m looking for help with good client 
 - 💬 Ask me about web development 
